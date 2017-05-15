@@ -9,7 +9,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical"
-        android:padding="16sp"
+        android:padding="16dp"
         tools:context="com.egecius.demo_styles.MainActivity">
 
         <!-- TextView -->
@@ -25,14 +25,14 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="TextView 12sp"
-            android:textSize="12sp" />
+            android:text="TextView 12dp"
+            android:textSize="12dp" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="TextView 14sp"
-            android:textSize="14sp" />
+            android:text="TextView 14dp"
+            android:textSize="14dp" />
 
 
         <!-- AppCompatTextView -->
@@ -46,36 +46,36 @@
         <android.support.v7.widget.AppCompatTextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="AppCompatTextView 12sp"
-            android:textSize="12sp" />
+            android:text="AppCompatTextView 12dp"
+            android:textSize="12dp" />
 
 
         <android.support.v7.widget.AppCompatTextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="AppCompatTextView 14sp"
-            android:textSize="14sp" />
+            android:text="AppCompatTextView 14dp"
+            android:textSize="14dp" />
 
 
         <android.support.v7.widget.AppCompatTextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="AppCompatTextView 20sp"
-            android:textSize="20sp" />
+            android:text="AppCompatTextView 20dp"
+            android:textSize="20dp" />
 
 
         <android.support.v7.widget.AppCompatTextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="AppCompatTextView 24sp"
-            android:textSize="24sp" />
+            android:text="AppCompatTextView 24dp"
+            android:textSize="24dp" />
 
 
         <android.support.v7.widget.AppCompatTextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="AppCompatTextView 48sp"
-            android:textSize="48sp" />
+            android:text="AppCompatTextView 48dp"
+            android:textSize="48dp" />
 
 
         <!-- Button -->
@@ -91,14 +91,14 @@
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Button 14sp"
-            android:textSize="14sp" />
+            android:text="Button 14dp"
+            android:textSize="14dp" />
 
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Button 16sp"
-            android:textSize="16sp" />
+            android:text="Button 16dp"
+            android:textSize="16dp" />
 
         <!-- AppCompatButton -->
 
@@ -112,15 +112,15 @@
         <android.support.v7.widget.AppCompatButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="AppCompatButton 14sp"
-            android:textSize="14sp" />
+            android:text="AppCompatButton 14dp"
+            android:textSize="14dp" />
 
 
         <android.support.v7.widget.AppCompatButton
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="AppCompatButton 16sp"
-            android:textSize="16sp" />
+            android:text="AppCompatButton 16dp"
+            android:textSize="16dp" />
 
 
     </LinearLayout>
